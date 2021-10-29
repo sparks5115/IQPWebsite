@@ -2,6 +2,16 @@
     margin: 0;
     padding: 0;
 }
+
+@viewport {
+    width: device-width ;
+    zoom: 1.0 ;
+}
+
+@-ms-viewport {
+    width: device-width ;
+}
+
 html, body{
     height: 100%;
 }
