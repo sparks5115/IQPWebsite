@@ -6,5 +6,9 @@ html, body{
     height: 100%;
 }
 body{
-    background-color: gray;
+    background-color: rgb(30, 63, 59);
+    background-image: url(images/japan-shrine-green-stairs-nature-vegetation.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: soft-light;
 }
