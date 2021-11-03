@@ -81,6 +81,16 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 
+.infoParagraph{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+    font-size: 16pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 .someButton{
     margin:50px auto;
     display: block;
